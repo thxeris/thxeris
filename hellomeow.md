@@ -2,4 +2,4 @@
 -  I’m interested in learning basic programming languages to develop impactful tools to the world!
 - 🌱 I’m currently learning JavaScript, Python, Bash, C, and currently taking the CS50.
 - 💞️ I’m looking to collaborate on any kind of projects where I can put my knowledge and ideas into practical solutions.
-- 📫 You may reach me via Twitter as @wornday
+- 📫 You may reach me via Twitter as @wornday. I'm not on Instagram, and that profile is not mine I said!
